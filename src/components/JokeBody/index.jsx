@@ -5,9 +5,9 @@ import { JokeText } from '../JokeText';
 
 export const JokeBody = () => {
   return (
-    <>
+    <div className='joke__body'>
       <JokeUser />
       <JokeText />
-    </>
+    </div>
   )
 }
