@@ -1,0 +1,6 @@
+.joke__user {
+  flex: 0 0 auto;
+  width: 5rem;
+  height: 5rem;
+  margin-right: 1rem;
+}
